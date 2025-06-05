@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Ricardo! 👋</h1>
+<h2 align="center">Olá, eu sou o Ricardo! 👋</h2>
 
 <p align="center">
   Entusiasta de Computação • Terminal lover • Explorador de linguagens modernas ☕🐍🦀🐳
