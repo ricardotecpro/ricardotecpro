@@ -1,17 +1,17 @@
-<h2 align="center">Olá, eu sou o Ricardo! 👋</h2>
+<h2 align="center">Olá pessoal! 👋</h2>
 
 <p align="center">
-  Entusiasta de Computação • Terminal lover • Explorador de tecnologias e linguagens modernas ☕🐍🦀🐳
+  Entusiasta de Computação • Terminal user • Explorador de tecnologias e linguagens modernas e retro ☕🐍🦀🐳
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre
 
 - 🎓 Disciplinas **Git, Linux, C/C++, Java, Python, JavaScript, SQL e Docker**
-- 📚 Estudo **Rust, Go, Flutter, Angular**
-- 🖥️ Apaixonado por **terminal (Bash, Zsh, PowerShell)** e automação com scripts
-- 📦 Crio conteúdos e manuais para cursos de Sistemas e Programação
+- 📚 Acompanhando **Rust, Go, Flutter, Angular**
+- 🖥️ Usuário **terminal (Bash, Zsh, PowerShell, Cmd)** e automação com scripts
+- 📦 Leio e crio conteúdos e manuais para cursos de Programação
 
 ---
 
