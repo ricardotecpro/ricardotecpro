@@ -1,15 +1,15 @@
 <h2 align="center">Olá, eu sou o Ricardo! 👋</h2>
 
 <p align="center">
-  Entusiasta de Computação • Terminal lover • Explorador de linguagens modernas ☕🐍🦀🐳
+  Entusiasta de Computação • Terminal lover • Explorador de tecnologias e linguagens modernas ☕🐍🦀🐳
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Leciono disciplinas como **Git, Linux, C/C++, Java, Python, JavaScript, SQL e Docker**
-- 📚 Estudo linguagens como **Rust, Go, Flutter, Angular**
+- 🎓 Disciplinas **Git, Linux, C/C++, Java, Python, JavaScript, SQL e Docker**
+- 📚 Estudo **Rust, Go, Flutter, Angular**
 - 🖥️ Apaixonado por **terminal (Bash, Zsh, PowerShell)** e automação com scripts
 - 📦 Crio conteúdos e manuais para cursos de Sistemas e Programação
 
@@ -51,12 +51,14 @@
 </div>
 
 ---
-
+<!--
 ## 🌈 Gráfico de Contribuições
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardotecpro&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/2571dc5d-0d28-4ab8-a65d-237ee82640c7)
+-->
 ---
 
 ## 📫 Contato
@@ -65,5 +67,3 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 ---
-
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/2571dc5d-0d28-4ab8-a65d-237ee82640c7)
