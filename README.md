@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Ricardo! 👋</h1>
 
 <p align="center">
-  Professor e entusiasta de Computação • Terminal lover • Explorador de linguagens modernas ☕🐍🦀🐳
+  Entusiasta de Computação • Terminal lover • Explorador de linguagens modernas ☕🐍🦀🐳
 </p>
 
 ---
@@ -56,6 +56,7 @@
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardotecpro&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+
 ---
 
 ## 📫 Contato
@@ -65,4 +66,4 @@
 
 ---
 
-> 🎯 _"Ensinar é aprender duas vezes. Compartilhar conhecimento transforma vidas."_
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/2571dc5d-0d28-4ab8-a65d-237ee82640c7)
