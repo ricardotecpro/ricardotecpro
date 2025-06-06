@@ -1,4 +1,4 @@
-<h2 align="center">Olá pessoal! 👋</h2>
+<h2 align="center">Bem-vindo ao meu Github! 👋</h2>
 
 <p align="center">
   Entusiasta de Computação • Terminal user • Explorador de tecnologias e linguagens modernas e retro ☕🐍🦀🐳
