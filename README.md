@@ -99,3 +99,4 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 ---
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/2571dc5d-0d28-4ab8-a65d-237ee82640c7)
