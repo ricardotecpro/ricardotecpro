@@ -16,7 +16,7 @@
 <summary><strong>🇧🇷 Versão em Português</strong></summary>
 <br>
 
-## 🚀 Sobre Mim
+### 🚀 Sobre Mim
 
 - 🎓 Foco em: **Git, Linux, C/C++, Java, Python, JavaScript, SQL e Docker**.
 - 📚 Atualmente estudando: **Rust, Go, Flutter, e Angular**.
@@ -25,19 +25,27 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <details>
-  <summary><b>Linguagens de Programação</b></summary>
+  <summary><b>Linguagens de Programação e Dados</b></summary>
   <p align="left">
+    <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/></a>
+    <br>
+    <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
   </p>
 </details>
@@ -140,18 +148,20 @@
     <a href="#"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
     <br><br>
-    <b>Design e Documentação:</b><br>
+    <b>Design e Mídia:</b><br>
     <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/ReadMe-018EF5?style=for-the-badge&logo=readme&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/></a>
     <br><br>
-    <b>Colaboração e Outros:</b><br>
+    <b>Plataformas e Outros:</b><br>
     <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=white"/></a>
@@ -159,24 +169,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
   </p>
 </details>
-
----
-
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=github_dark&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=github_dark&langs_count=10" height="180em"/>
-</p>
-
----
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 </details>
 
@@ -190,7 +182,7 @@
 <summary><strong>🇬🇧 English Version</strong></summary>
 <br>
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🎓 Focus on: **Git, Linux, C/C++, Java, Python, JavaScript, SQL, and Docker**.
 - 📚 Currently learning: **Rust, Go, Flutter, and Angular**.
@@ -199,19 +191,27 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 <details>
-  <summary><b>Programming Languages</b></summary>
+  <summary><b>Languages & Data Formats</b></summary>
   <p align="left">
+    <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/></a>
+    <br>
+    <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
   </p>
 </details>
@@ -314,18 +314,20 @@
     <a href="#"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
     <br><br>
-    <b>Design & Documentation:</b><br>
+    <b>Design & Media:</b><br>
     <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/ReadMe-018EF5?style=for-the-badge&logo=readme&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/></a>
     <br><br>
-    <b>Collaboration & Others:</b><br>
+    <b>Platforms & Others:</b><br>
     <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=white"/></a>
@@ -334,10 +336,13 @@
   </p>
 </details>
 
+</details>
+
+</div>
+
 ---
 
-## 📊 GitHub Activity
-
+## 📊 Atividade no GitHub / GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=github_dark&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=github_dark&langs_count=10" height="180em"/>
@@ -345,16 +350,12 @@
 
 ---
 
-## 📫 Contact
-
-<p align="left">
+## 📫 Contato / Contact
+<p align="center">
   <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;
   <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-</details>
-
-</div>
 
 ---
 
