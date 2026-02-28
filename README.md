@@ -425,14 +425,16 @@
 <summary><b>📖 Documentação e Referências</b></summary>
 <br>
 
-| Recurso                                                                | Descrição                             |
-| ---------------------------------------------------------------------- | ------------------------------------- |
-| [C++ Reference](https://en.cppreference.com/w/c/memory/free)           | Documentação C/C++                    |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/)                        | Tutoriais e algoritmos                |
-| [Python Fluente](https://pythonfluente.com/2/)                         | Livro Python avançado                 |
-| [Unicode Table](https://symbl.cc/pt/unicode-table/#latin-1-supplement) | Tabela de caracteres Unicode          |
-| [AOSA Book](https://aosabook.org/en/)                                  | Arquitetura de aplicações open source |
-| [500 Lines or Less](https://aosabook.org/en/500L/introduction.html)    | Projetos em 500 linhas                |
+| Recurso                                                                                                                         | Descrição                             |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [C++ Reference](https://en.cppreference.com/w/c/memory/free)                                                                    | Documentação C/C++                    |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/)                                                                                 | Tutoriais e algoritmos                |
+| [Python Fluente](https://pythonfluente.com/2/)                                                                                  | Livro Python avançado                 |
+| [Unicode Table](https://symbl.cc/pt/unicode-table/#latin-1-supplement)                                                          | Tabela de caracteres Unicode          |
+| [AOSA Book](https://aosabook.org/en/)                                                                                           | Arquitetura de aplicações open source |
+| [500 Lines or Less](https://aosabook.org/en/500L/introduction.html)                                                             | Projetos em 500 linhas                |
+| [Transformada de Fourier - UFRGS](https://www.ufrgs.br/reamat/TransformadasIntegrais/livro-af/tdf-transformada_de_fourier.html) | Matemática e sinais                   |
+| [Tabela ASCII - USP](https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html)                                            | Referência de caracteres ASCII        |
 
 </details>
 
@@ -440,23 +442,23 @@
 <summary><b>🎬 Canais do YouTube Recomendados</b></summary>
 <br>
 
-| Canal                                                                           | Conteúdo                        |
-| ------------------------------------------------------------------------------- | ------------------------------- |
-| [@cursoemvideo](https://www.youtube.com/@cursoemvideo/playlists)                | Cursos gratuitos de programação |
-| [@Akitando](https://www.youtube.com/@Akitando)                                  | Tecnologia e desenvolvimento    |
-| [@cod3r](https://www.youtube.com/@cod3r)                                        | Cursos de programação           |
-| [DevSuperior](https://www.youtube.com/devsuperior)                              | Java e Spring Boot              |
-| [@loianegroner](https://www.youtube.com/@loianegroner)                          | Angular, Java e mais            |
-| [@giulianabezerra](https://www.youtube.com/@giulianabezerra)                    | Java e Spring                   |
-| [@cultrepo](https://www.youtube.com/@cultrepo)                                  | Cultura tech                    |
-| [@OfferZenOrigins](https://www.youtube.com/@OfferZenOrigins)                    | Histórias de tecnologia         |
-| [Mass Effect Studios](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA) | Conteúdo tech                   |
-| [@cs50](https://www.youtube.com/@cs50)                                          | Curso CS50 Harvard              |
-| [@eFeXx.keyboards](https://www.youtube.com/@eFeXx.keyboards)                    | Teclados mecânicos e setup      |
-| [@joaopaulounifei](https://www.youtube.com/@joaopaulounifei)                    | Programação e algoritmos        |
-| [@excriptvideo](https://www.youtube.com/@excriptvideo)                          | Tutoriais de programação        |
-| [@CanalPolimorfismo](https://www.youtube.com/@CanalPolimorfismo)                | Programação e POO               |
-| [@UniversoProgramado](https://www.youtube.com/@UniversoProgramado)              | Desenvolvimento de software     |
+| Canal                                                                          | Conteúdo                        |
+| ------------------------------------------------------------------------------ | ------------------------------- |
+| [@cursoemvideo](https://www.youtube.com/@cursoemvideo/playlists)               | Cursos gratuitos de programação |
+| [@Akitando](https://www.youtube.com/@Akitando)                                 | Tecnologia e desenvolvimento    |
+| [@cod3r](https://www.youtube.com/@cod3r)                                       | Cursos de programação           |
+| [DevSuperior](https://www.youtube.com/devsuperior)                             | Java e Spring Boot              |
+| [@loianegroner](https://www.youtube.com/@loianegroner)                         | Angular, Java e mais            |
+| [@giulianabezerra](https://www.youtube.com/@giulianabezerra)                   | Java e Spring                   |
+| [@cultrepo](https://www.youtube.com/@cultrepo)                                 | Cultura tech                    |
+| [@OfferZenOrigins](https://www.youtube.com/@OfferZenOrigins)                   | Histórias de tecnologia         |
+| [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA) | Curso de Python                 |
+| [@cs50](https://www.youtube.com/@cs50)                                         | Curso CS50 Harvard              |
+| [@eFeXx.keyboards](https://www.youtube.com/@eFeXx.keyboards)                   | Teclados mecânicos e setup      |
+| [@joaopaulounifei](https://www.youtube.com/@joaopaulounifei)                   | Programação e algoritmos        |
+| [@excriptvideo](https://www.youtube.com/@excriptvideo)                         | Tutoriais de programação        |
+| [@CanalPolimorfismo](https://www.youtube.com/@CanalPolimorfismo)               | Programação e POO               |
+| [@UniversoProgramado](https://www.youtube.com/@UniversoProgramado)             | Desenvolvimento de software     |
 
 </details>
 
