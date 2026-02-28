@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo | Welcome 👋</h1>
 
 <p align="center">
-  Entusiasta de Computação • Usuário de Terminal • Explorador de tecnologias e linguagens, das modernas às retrô.
+  Entusiasta de Computação • Usuário de Terminal • Explorador de tecnologias e linguagens, das modernas às retrô, Construtor de Teclados Custom.
   <br>
   <em>Computing Enthusiast • Terminal User • Explorer of technologies and languages, from modern to retro.</em>
   <br>
@@ -21,7 +21,7 @@
 - 🎓 Foco em: **Git, Linux, C/C++, Java/C#, Python, JavaScript, SQL, Docker, Podman, Kubernetes**.
 - 📚 Atualmente estudando: **Rust, Go, Flutter, Kotlin, Mojo**.
 - 🖥️ Usuário de terminal (**Bash, Zsh, PowerShell, Cmd**) e automação com scripts.
-- 📦 Crio e organizo conteúdos e manuais para cursos de programação.
+- 📦 Criando conteúdos e manuais para cursos de programação.
 
 ---
 
@@ -345,15 +345,18 @@
 ## 📊 Atividade no GitHub / GitHub Activity
 
 <div align="center">
+  <a href="https://github.com/ricardotecpro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=github_dark&langs_count=8"/>
+  </a>
+</div>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardotecpro&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo's GitHub Stats" width="48%" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ricardotecpro&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7d8590" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=dark&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=ricardotecpro&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7d8590" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardotecpro&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" width="98%" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardotecpro&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" width="98%" />
 </div>
 
 ---
