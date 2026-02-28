@@ -345,10 +345,17 @@
 ## 📊 Atividade no GitHub / GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/ricardotecpro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=github_dark&langs_count=8"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardotecpro&theme=github_dark" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardotecpro&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardotecpro&theme=github_dark" alt="Repos per Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricardotecpro&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricardotecpro&theme=github_dark&utcOffset=-3" alt="Productive Time" />
 </div>
 
 <div align="center">
@@ -387,9 +394,88 @@
 
 ---
 
-## Github Pages
+## 🌐 GitHub Pages
 
-### 🔗 [ricardotecpro.github.io](https://ricardotecpro.github.io/)
+<p align="center">
+  <a href="https://ricardotecpro.github.io/">
+    <img src="https://img.shields.io/badge/🔗_Meu_Portfólio-ricardotecpro.github.io-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📚 Recursos Úteis / Useful Resources
+
+<details>
+<summary><b>🎓 Plataformas de Aprendizado Interativo</b></summary>
+<br>
+
+| Recurso                                                                                    | Descrição                           |
+| ------------------------------------------------------------------------------------------ | ----------------------------------- |
+| [Python Tutor](https://pythontutor.com/index.html)                                         | Visualizador de execução de código  |
+| [W3Schools](https://www.w3schools.com/)                                                    | Tutoriais web interativos           |
+| [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)                      | Aprenda Git de forma visual         |
+| [CS50 Harvard](https://cs50.harvard.edu/x/)                                                | Curso de Ciência da Computação      |
+| [Data Structures Visualization](https://datastructuresvisualization.netlify.app/)          | Visualização de estruturas de dados |
+| [Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | Animações de algoritmos             |
+
+</details>
+
+<details>
+<summary><b>📖 Documentação e Referências</b></summary>
+<br>
+
+| Recurso                                                                | Descrição                             |
+| ---------------------------------------------------------------------- | ------------------------------------- |
+| [C++ Reference](https://en.cppreference.com/w/c/memory/free)           | Documentação C/C++                    |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/)                        | Tutoriais e algoritmos                |
+| [Python Fluente](https://pythonfluente.com/2/)                         | Livro Python avançado                 |
+| [Unicode Table](https://symbl.cc/pt/unicode-table/#latin-1-supplement) | Tabela de caracteres Unicode          |
+| [AOSA Book](https://aosabook.org/en/)                                  | Arquitetura de aplicações open source |
+| [500 Lines or Less](https://aosabook.org/en/500L/introduction.html)    | Projetos em 500 linhas                |
+
+</details>
+
+<details>
+<summary><b>🎬 Canais do YouTube Recomendados</b></summary>
+<br>
+
+| Canal                                                                           | Conteúdo                        |
+| ------------------------------------------------------------------------------- | ------------------------------- |
+| [@cursoemvideo](https://www.youtube.com/@cursoemvideo/playlists)                | Cursos gratuitos de programação |
+| [@Akitando](https://www.youtube.com/@Akitando)                                  | Tecnologia e desenvolvimento    |
+| [@cod3r](https://www.youtube.com/@cod3r)                                        | Cursos de programação           |
+| [DevSuperior](https://www.youtube.com/devsuperior)                              | Java e Spring Boot              |
+| [@loianegroner](https://www.youtube.com/@loianegroner)                          | Angular, Java e mais            |
+| [@giulianabezerra](https://www.youtube.com/@giulianabezerra)                    | Java e Spring                   |
+| [@cultrepo](https://www.youtube.com/@cultrepo)                                  | Cultura tech                    |
+| [@OfferZenOrigins](https://www.youtube.com/@OfferZenOrigins)                    | Histórias de tecnologia         |
+| [Mass Effect Studios](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA) | Conteúdo tech                   |
+
+</details>
+
+<details>
+<summary><b>📦 Repositórios GitHub Úteis</b></summary>
+<br>
+
+| Repositório                                                    | Descrição                        |
+| -------------------------------------------------------------- | -------------------------------- |
+| [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)       | Biblioteca de recursos para devs |
+| [md-badges](https://github.com/inttter/md-badges)              | Badges para Markdown             |
+| [Live de Python](https://github.com/dunossauro/live-de-python) | Material das lives do Dunossauro |
+
+</details>
+
+<details>
+<summary><b>🌍 Blogs e Sites Tech</b></summary>
+<br>
+
+| Site                                        | Descrição              |
+| ------------------------------------------- | ---------------------- |
+| [Akita on Rails](https://akitaonrails.com/) | Blog do Fabio Akita    |
+| [Meio Bit](https://meiobit.com/)            | Notícias de tecnologia |
+
+</details>
 
 ---
 
