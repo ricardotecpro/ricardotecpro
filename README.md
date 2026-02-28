@@ -355,7 +355,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricardotecpro&theme=github_dark" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricardotecpro&theme=github_dark&utcOffset=-3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricardotecpro&theme=github_dark" alt="Productive Time" />
 </div>
 
 <div align="center">
@@ -451,6 +451,12 @@
 | [@cultrepo](https://www.youtube.com/@cultrepo)                                  | Cultura tech                    |
 | [@OfferZenOrigins](https://www.youtube.com/@OfferZenOrigins)                    | Histórias de tecnologia         |
 | [Mass Effect Studios](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA) | Conteúdo tech                   |
+| [@cs50](https://www.youtube.com/@cs50)                                          | Curso CS50 Harvard              |
+| [@eFeXx.keyboards](https://www.youtube.com/@eFeXx.keyboards)                    | Teclados mecânicos e setup      |
+| [@joaopaulounifei](https://www.youtube.com/@joaopaulounifei)                    | Programação e algoritmos        |
+| [@excriptvideo](https://www.youtube.com/@excriptvideo)                          | Tutoriais de programação        |
+| [@CanalPolimorfismo](https://www.youtube.com/@CanalPolimorfismo)                | Programação e POO               |
+| [@UniversoProgramado](https://www.youtube.com/@UniversoProgramado)              | Desenvolvimento de software     |
 
 </details>
 
@@ -458,11 +464,13 @@
 <summary><b>📦 Repositórios GitHub Úteis</b></summary>
 <br>
 
-| Repositório                                                    | Descrição                        |
-| -------------------------------------------------------------- | -------------------------------- |
-| [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)       | Biblioteca de recursos para devs |
-| [md-badges](https://github.com/inttter/md-badges)              | Badges para Markdown             |
-| [Live de Python](https://github.com/dunossauro/live-de-python) | Material das lives do Dunossauro |
+| Repositório                                                                     | Descrição                        |
+| ------------------------------------------------------------------------------- | -------------------------------- |
+| [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)                        | Biblioteca de recursos para devs |
+| [md-badges](https://github.com/inttter/md-badges)                               | Badges para Markdown             |
+| [Live de Python](https://github.com/dunossauro/live-de-python)                  | Material das lives do Dunossauro |
+| [Rinha de Backend 2025](https://github.com/zanfranceschi/rinha-de-backend-2025) | Desafio de backend               |
+| [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) | Curso completo de Kubernetes     |
 
 </details>
 
@@ -470,10 +478,21 @@
 <summary><b>🌍 Blogs e Sites Tech</b></summary>
 <br>
 
-| Site                                        | Descrição              |
-| ------------------------------------------- | ---------------------- |
-| [Akita on Rails](https://akitaonrails.com/) | Blog do Fabio Akita    |
-| [Meio Bit](https://meiobit.com/)            | Notícias de tecnologia |
+| Site                                        | Descrição                  |
+| ------------------------------------------- | -------------------------- |
+| [Akita on Rails](https://akitaonrails.com/) | Blog do Fabio Akita        |
+| [Meio Bit](https://meiobit.com/)            | Notícias de tecnologia     |
+| [TabNews](https://www.tabnews.com.br/)      | Comunidade tech brasileira |
+
+</details>
+
+<details>
+<summary><b>📝 Artigos Recomendados</b></summary>
+<br>
+
+| Artigo                                                                                                                                           | Descrição                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Como venci a Rinha de Backend 2025](https://www.tabnews.com.br/ricassiocosta/como-venci-a-rinha-de-backend-2025-com-typescript-node-js-e-redis) | TypeScript, Node.js e Redis |
 
 </details>
 
