@@ -342,7 +342,7 @@
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/📊_Atividade_no_GitHub_/_GitHub_Activity-58a6ff?style=for-the-badge"/></h2>
+## 📊 Atividade no GitHub / GitHub Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardotecpro&theme=github_dark" alt="Profile Details" />
@@ -368,7 +368,7 @@
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/📫_Contato_/_Contact-58a6ff?style=for-the-badge"/></h2>
+## 📫 Contato / Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/ricardotecpro">
@@ -394,7 +394,7 @@
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/🌐_GitHub_Pages-58a6ff?style=for-the-badge"/></h2>
+## 🌐 GitHub Pages
 
 <p align="center">
   <a href="https://ricardotecpro.github.io/">
@@ -404,7 +404,7 @@
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/📚_Recursos_Úteis_/_Useful_Resources-58a6ff?style=for-the-badge"/></h2>
+## 📚 Recursos Úteis / Useful Resources
 
 <details>
 <summary><b>🎓 Plataformas de Aprendizado Interativo</b></summary>
