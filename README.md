@@ -342,7 +342,7 @@
 
 ---
 
-## 📊 Atividade no GitHub / GitHub Activity
+<h2 align="center">📊 Atividade no GitHub / GitHub Activity</h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardotecpro&theme=github_dark" alt="Profile Details" />
@@ -368,7 +368,7 @@
 
 ---
 
-## 📫 Contato / Contact
+<h2 align="center">📫 Contato / Contact</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ricardotecpro">
@@ -394,7 +394,7 @@
 
 ---
 
-## 🌐 GitHub Pages
+<h2 align="center">🌐 GitHub Pages</h2>
 
 <p align="center">
   <a href="https://ricardotecpro.github.io/">
@@ -404,7 +404,7 @@
 
 ---
 
-## 📚 Recursos Úteis / Useful Resources
+<h2 align="center">📚 Recursos Úteis / Useful Resources</h2>
 
 <details>
 <summary><b>🎓 Plataformas de Aprendizado Interativo</b></summary>
