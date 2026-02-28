@@ -18,8 +18,8 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Foco em: **Git, Linux, C/C++, Java, Python, JavaScript, SQL, Docker, Podman, Kubernetes**.
-- 📚 Atualmente estudando: **Rust, Go, Flutter, e Kotlin**.
+- 🎓 Foco em: **Git, Linux, C/C++, Java/C#, Python, JavaScript, SQL, Docker, Podman, Kubernetes**.
+- 📚 Atualmente estudando: **Rust, Go, Flutter, Kotlin, Mojo**.
 - 🖥️ Usuário de terminal (**Bash, Zsh, PowerShell, Cmd**) e automação com scripts.
 - 📦 Crio e organizo conteúdos e manuais para cursos de programação.
 
@@ -346,9 +346,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardotecpro&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo's GitHub Stats" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=dark&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=dark&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=ricardotecpro&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7d8590" alt="GitHub Streak" width="48%" />
 
