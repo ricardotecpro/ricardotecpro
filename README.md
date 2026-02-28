@@ -418,6 +418,7 @@
 | [CS50 Harvard](https://cs50.harvard.edu/x/)                                                | Curso de Ciência da Computação      |
 | [Data Structures Visualization](https://datastructuresvisualization.netlify.app/)          | Visualização de estruturas de dados |
 | [Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | Animações de algoritmos             |
+| [Roadmap.sh - Computer Science](https://roadmap.sh/computer-science)                       | Roadmap completo de CS              |
 
 </details>
 
