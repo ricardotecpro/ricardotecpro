@@ -18,7 +18,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Foco em: **Git, Linux, C/C++, Java, Python, JavaScript, SQL e Docker**.
+- 🎓 Foco em: **Git, Linux, C/C++, Java, Python, JavaScript, SQL, Docker, Podman, Kubernetes**.
 - 📚 Atualmente estudando: **Rust, Go, Flutter, e Kotlin**.
 - 🖥️ Usuário de terminal (**Bash, Zsh, PowerShell, Cmd**) e automação com scripts.
 - 📦 Crio e organizo conteúdos e manuais para cursos de programação.
@@ -345,12 +345,14 @@
 ## 📊 Atividade no GitHub / GitHub Activity
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117)](https://github.com/ricardotecpro)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=github_dark&langs_count=8&hide_border=true&bg_color=0d1117)](https://github.com/ricardotecpro)
+<img src="https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo's GitHub Stats" width="48%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ricardotecpro&theme=github-dark-blue&hide_border=true&background=0d1117)](https://github.com/ricardotecpro)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=dark&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=ricardotecpro&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7d8590" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardotecpro&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" width="98%" />
 
 </div>
 
