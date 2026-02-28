@@ -19,7 +19,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Foco em: **Git, Linux, C/C++, Java, Python, JavaScript, SQL e Docker**.
-- 📚 Atualmente estudando: **Rust, Go, Flutter, e Angular**.
+- 📚 Atualmente estudando: **Rust, Go, Flutter, e Kotlin**.
 - 🖥️ Usuário de terminal (**Bash, Zsh, PowerShell, Cmd**) e automação com scripts.
 - 📦 Crio e organizo conteúdos e manuais para cursos de programação.
 
@@ -344,10 +344,15 @@
 
 ## 📊 Atividade no GitHub / GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=github_dark&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=github_dark&langs_count=10" height="180em"/>
-</p>
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117)](https://github.com/ricardotecpro)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=github_dark&langs_count=8&hide_border=true&bg_color=0d1117)](https://github.com/ricardotecpro)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ricardotecpro&theme=github-dark-blue&hide_border=true&background=0d1117)](https://github.com/ricardotecpro)
+
+</div>
 
 ---
 
