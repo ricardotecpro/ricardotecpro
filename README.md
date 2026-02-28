@@ -343,6 +343,7 @@
 ---
 
 ## 📊 Atividade no GitHub / GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricardotecpro&show_icons=true&theme=github_dark&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotecpro&layout=compact&theme=github_dark&langs_count=10" height="180em"/>
@@ -351,6 +352,7 @@
 ---
 
 ## 📫 Contato / Contact
+
 <p align="center">
   <a href="https://linkedin.com/in/ricardotecpro">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>

@@ -1,70 +1,70 @@
 name: Profile Validation
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+    push:
+        branches:
+            - main
+    pull_request:
+        branches:
+            - main
 
 jobs:
-  validate-profile:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    validate-profile:
+        runs-on: ubuntu-latest
 
-      - name: Validate README exists
-        run: |
-          if [ ! -f README.md ]; then
-            echo "❌ README.md not found!"
-            exit 1
-          else
-            echo "✅ README.md exists"
-          fi
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
 
-      - name: Check README content
-        run: |
-          # Verificar se o README não está vazio
-          if [ ! -s README.md ]; then
-            echo "❌ README.md is empty!"
-            exit 1
-          else
-            echo "✅ README.md has content"
-          fi
-          
-          # Verificar se contém informações básicas
-          if ! grep -q "ricardotecpro" README.md; then
-            echo "❌ README.md doesn't contain profile information!"
-            exit 1
-          else
-            echo "✅ Profile information found"
-          fi
+            - name: Validate README exists
+              run: |
+                  if [ ! -f README.md ]; then
+                    echo "❌ README.md not found!"
+                    exit 1
+                  else
+                    echo "✅ README.md exists"
+                  fi
 
-      - name: Validate contact links
-        run: |
-          echo "🔍 Checking contact links format..."
-          
-          # Verificar se os links de contato estão presentes
-          if ! grep -q "linkedin.com/in/ricardotecpro" README.md; then
-            echo "⚠️  LinkedIn link needs review"
-          else
-            echo "✅ LinkedIn link found"
-          fi
-          
-          if ! grep -q "ricardotecpro@hotmail.com" README.md; then
-            echo "⚠️  Email link needs review"
-          else
-            echo "✅ Email link found"
-          fi
-          
-          if ! grep -q "github.com/ricardotecpro" README.md; then
-            echo "✅ GitHub profile implicitly present"
-          fi
+            - name: Check README content
+              run: |
+                  # Verificar se o README não está vazio
+                  if [ ! -s README.md ]; then
+                    echo "❌ README.md is empty!"
+                    exit 1
+                  else
+                    echo "✅ README.md has content"
+                  fi
 
-      - name: Profile validation complete
-        run: |
-          echo "🎉 Profile validation completed successfully!"
-          echo "📊 README.md is ready for GitHub profile display"
+                  # Verificar se contém informações básicas
+                  if ! grep -q "ricardotecpro" README.md; then
+                    echo "❌ README.md doesn't contain profile information!"
+                    exit 1
+                  else
+                    echo "✅ Profile information found"
+                  fi
+
+            - name: Validate contact links
+              run: |
+                  echo "🔍 Checking contact links format..."
+
+                  # Verificar se os links de contato estão presentes
+                  if ! grep -q "linkedin.com/in/ricardotecpro" README.md; then
+                    echo "⚠️  LinkedIn link needs review"
+                  else
+                    echo "✅ LinkedIn link found"
+                  fi
+
+                  if ! grep -q "ricardotecpro@hotmail.com" README.md; then
+                    echo "⚠️  Email link needs review"
+                  else
+                    echo "✅ Email link found"
+                  fi
+
+                  if ! grep -q "github.com/ricardotecpro" README.md; then
+                    echo "✅ GitHub profile implicitly present"
+                  fi
+
+            - name: Profile validation complete
+              run: |
+                  echo "🎉 Profile validation completed successfully!"
+                  echo "📊 README.md is ready for GitHub profile display"
