@@ -342,7 +342,7 @@
 
 ---
 
-## 📊 Atividade no GitHub / GitHub Activity
+<h2 align="center"><img src="https://img.shields.io/badge/📊_Atividade_no_GitHub_/_GitHub_Activity-58a6ff?style=for-the-badge"/></h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardotecpro&theme=github_dark" alt="Profile Details" />
@@ -368,7 +368,7 @@
 
 ---
 
-## 📫 Contato / Contact
+<h2 align="center"><img src="https://img.shields.io/badge/📫_Contato_/_Contact-58a6ff?style=for-the-badge"/></h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ricardotecpro">
@@ -394,7 +394,7 @@
 
 ---
 
-## 🌐 GitHub Pages
+<h2 align="center"><img src="https://img.shields.io/badge/🌐_GitHub_Pages-58a6ff?style=for-the-badge"/></h2>
 
 <p align="center">
   <a href="https://ricardotecpro.github.io/">
@@ -404,7 +404,7 @@
 
 ---
 
-## 📚 Recursos Úteis / Useful Resources
+<h2 align="center"><img src="https://img.shields.io/badge/📚_Recursos_Úteis_/_Useful_Resources-58a6ff?style=for-the-badge"/></h2>
 
 <details>
 <summary><b>🎓 Plataformas de Aprendizado Interativo</b></summary>
@@ -419,6 +419,7 @@
 | [Data Structures Visualization](https://datastructuresvisualization.netlify.app/)          | Visualização de estruturas de dados |
 | [Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | Animações de algoritmos             |
 | [Roadmap.sh - Computer Science](https://roadmap.sh/computer-science)                       | Roadmap completo de CS              |
+| [Stack and Heap Memory - Illinois CS225](https://courses.grainger.illinois.edu/cs225/sp2022/resources/stack-heap/) | Stack e Heap em C++                 |
 
 </details>
 
@@ -436,6 +437,7 @@
 | [500 Lines or Less](https://aosabook.org/en/500L/introduction.html)                                                             | Projetos em 500 linhas                |
 | [Transformada de Fourier - UFRGS](https://www.ufrgs.br/reamat/TransformadasIntegrais/livro-af/tdf-transformada_de_fourier.html) | Matemática e sinais                   |
 | [Tabela ASCII - USP](https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html)                                            | Referência de caracteres ASCII        |
+| [TIOBE Index](https://www.tiobe.com/tiobe-index/)                                                                               | Ranking de linguagens de programação  |
 
 </details>
 
