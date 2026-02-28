@@ -410,15 +410,15 @@
 <summary><b>🎓 Plataformas de Aprendizado Interativo</b></summary>
 <br>
 
-| Recurso                                                                                    | Descrição                           |
-| ------------------------------------------------------------------------------------------ | ----------------------------------- |
-| [Python Tutor](https://pythontutor.com/index.html)                                         | Visualizador de execução de código  |
-| [W3Schools](https://www.w3schools.com/)                                                    | Tutoriais web interativos           |
-| [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)                      | Aprenda Git de forma visual         |
-| [CS50 Harvard](https://cs50.harvard.edu/x/)                                                | Curso de Ciência da Computação      |
-| [Data Structures Visualization](https://datastructuresvisualization.netlify.app/)          | Visualização de estruturas de dados |
-| [Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | Animações de algoritmos             |
-| [Roadmap.sh - Computer Science](https://roadmap.sh/computer-science)                       | Roadmap completo de CS              |
+| Recurso                                                                                                            | Descrição                           |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| [Python Tutor](https://pythontutor.com/index.html)                                                                 | Visualizador de execução de código  |
+| [W3Schools](https://www.w3schools.com/)                                                                            | Tutoriais web interativos           |
+| [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)                                              | Aprenda Git de forma visual         |
+| [CS50 Harvard](https://cs50.harvard.edu/x/)                                                                        | Curso de Ciência da Computação      |
+| [Data Structures Visualization](https://datastructuresvisualization.netlify.app/)                                  | Visualização de estruturas de dados |
+| [Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)                         | Animações de algoritmos             |
+| [Roadmap.sh - Computer Science](https://roadmap.sh/computer-science)                                               | Roadmap completo de CS              |
 | [Stack and Heap Memory - Illinois CS225](https://courses.grainger.illinois.edu/cs225/sp2022/resources/stack-heap/) | Stack e Heap em C++                 |
 
 </details>
